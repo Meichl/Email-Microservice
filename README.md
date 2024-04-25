@@ -3,6 +3,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-Realizado um serviço que aceita as informações necessárias e envie e-mails. 
+Realizado um serviço que aceita as informações necessárias e envia e-mails utilizando do AWS. 
 - Ele proporciona uma abstração entre dois provedores de serviço de e-mail diferentes. 
 - Se um dos serviços falhar, o serviço pode alternar rapidamente para outro provedor sem afetar seus clientes.
